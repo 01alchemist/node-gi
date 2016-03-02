@@ -1,2 +1,2 @@
-# node-gi
-Server side nodejs global illumination renderer 
+# gi-three.js
+Full parallel global illumination renderer for three.js
